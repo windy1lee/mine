@@ -127,7 +127,6 @@ if (isSurge) {
 // #endregion
 具体配置可见
 https://github.com/sazs34/TaskConfig#%E5%A4%A9%E6%B0%94
- */
 let config = {
     darksky_api: "84042b0b9895334261e502a3ca8bfd2d", //从https://darksky.net/dev/ 上申请key填入即可
     aqicn_api: "1ac26c037291fb2d9c8746e2c588b3dc0a01460d", //从http://aqicn.org/data-platform/token/#/ 上申请key填入即可
